@@ -38,7 +38,6 @@ const Root = styled.div`
 
 const AppWrapper = styled.div`
   display: flex;
-  /* height: calc(100vh - 70px); */
 `;
 
 const ContentWrapper = styled.div`

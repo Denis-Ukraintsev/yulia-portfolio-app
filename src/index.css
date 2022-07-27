@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 0 auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: flex;
@@ -7,8 +7,7 @@ body {
   flex-direction: column;
   align-items: center;
   font-family: "Gilroy", "Gilroy-Medium";
-  max-width: 943.61px;
-  margin: 0 auto;
+  min-width: 943.61px;
   margin-top: 5px;
   background: radial-gradient(circle, rgb(244, 207, 223), rgb(209, 222, 236));
 }

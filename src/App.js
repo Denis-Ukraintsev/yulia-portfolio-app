@@ -32,8 +32,6 @@ function App() {
 const Root = styled.div`
   display: flex;
   flex-direction: column;
-  width: 100%;
-  height: 100%;
 `;
 
 const AppWrapper = styled.div`

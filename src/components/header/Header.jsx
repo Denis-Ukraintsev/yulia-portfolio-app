@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink, Route } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { ROUTES } from "../../helpers/navHelper";
 import styled from "styled-components";
 import { main, text, link } from "../../theme/colors/colors";
